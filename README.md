@@ -1,4 +1,4 @@
-# Smart Automated Invoice & Business Insight System — Web Edition
+# Smart Automated Invoice & Business Insight System
 
 A professional browser-based billing and business analytics application built with **Python Flask + Excel + PDF**.
 
